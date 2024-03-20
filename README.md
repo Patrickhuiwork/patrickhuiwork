@@ -2,7 +2,11 @@
 <p> I'm a digital designer based in Vancouver, Canada, currently enrolled in the Digital Design & Development program at BCIT. I'm all about crafting beautiful and functional experiences, whether it's through UI/UX design or graphic design. I'm constantly working to improve my skills and stay on top of my game.
 
 Outside of design, I enjoy playing basketball and collecting sneakers. It's something I've been passionate about since childhood and it connects me to different aspects of pop culture that I enjoy. Drawing from the diverse experiences and interests in my life, I strive to infuse creativity and innovation into everything I create. </p>
-<p  align="left">
+<h2 align=left>
+📧 Connect
+</h2>
+
+<p  align="center">
   <a href="https://www.linkedin.com/in/patrick-hui-design">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
