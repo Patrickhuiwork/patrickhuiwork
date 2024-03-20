@@ -14,6 +14,10 @@ Outside of design, I enjoy playing basketball and collecting sneakers. It's some
   <a href="https://www.patrickhui.design/">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
   </a>
+
+  <a href="mailto:patrick.hui.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <h2 align="left">⚙️ Technologies & Tools </h2>
