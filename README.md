@@ -1,6 +1,6 @@
-<h1 align="center" > Hi there 👋, My name is Patrick Hui </h1>
+<h1 align="left" > Hi there 👋, My name is Patrick Hui </h1>
 
-<p  align="center">
+<p  align="left">
   <a href="https://www.linkedin.com/in/patrick-hui-design">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h2 align="center">⚙️ Technologies & Tools </h2>
+<h2 align="left">⚙️ Technologies & Tools </h2>
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
