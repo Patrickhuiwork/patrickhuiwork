@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> My name is Patrick. Please checkout all of my projects and skills!
+
 <!--
 **Patrickhuiwork/patrickhuiwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
