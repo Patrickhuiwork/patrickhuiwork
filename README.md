@@ -1,8 +1,11 @@
-### Hi there 👋, My name is Patrick Hui
+<h1> Hi there 👋, My name is Patrick Hui </h1>
 
-You can find me on LinkedIn [![LinkedIn][1.2]][1], or see my portfolio on [my website][2].
+<h1> Hi there 👋, My name is Patrick Hui </h1>
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+<a href="https://www.linkedin.com/in/patrick-hui-design">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[1]: https://www.linkedin.com/in/patrick-hui-design
-[2]: https://www.patrickhui.design/
+<a href="https://www.patrickhui.design/">
+  <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+</a>
