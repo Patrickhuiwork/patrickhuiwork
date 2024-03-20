@@ -6,7 +6,7 @@ Outside of design, I enjoy playing basketball and collecting sneakers. It's some
 📧 Connect
 </h2>
 
-<p  align="center">
+<p  align="left">
   <a href="https://www.linkedin.com/in/patrick-hui-design">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
