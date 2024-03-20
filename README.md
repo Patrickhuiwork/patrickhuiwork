@@ -1,11 +1,11 @@
 <h1 align="left" > Hi there 👋, My name is Patrick Hui </h1>
 
 <p  align="left">
-  <a href="https://www.linkedin.com/in/patrick-hui-design">
+  <a href="https://www.linkedin.com/in/patrick-hui-design" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://www.patrickhui.design/">
+  <a href="https://www.patrickhui.design/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
   </a>
 </p>
