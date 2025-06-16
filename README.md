@@ -1,5 +1,5 @@
 <h1 align="left" > Hi there 👋, My name is Patrick Hui </h1>
-<p> I'm a digital designer based in Vancouver, Canada, currently enrolled in the Digital Design & Development program at BCIT. I'm all about crafting beautiful and functional experiences, whether it's through UI/UX design or graphic design. I'm constantly working to improve my skills and stay on top of my game.
+<p> I'm a digital designer based in Vancouver, Canada, currently enrolled in the Interactive Arts and Technology program at Simon Fraser University. I'm all about crafting beautiful and functional experiences, whether it's through UI/UX design or graphic design. I'm constantly working to improve my skills and stay on top of my game.
 
 Outside of design, I enjoy playing basketball and collecting sneakers. It's something I've been passionate about since childhood and it connects me to different aspects of pop culture that I enjoy. Drawing from the diverse experiences and interests in my life, I strive to infuse creativity and innovation into everything I create. </p>
 <h2 align=left>
